@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "335092713805",
+    "project_id": "beercellar-9617b",
+    "storage_bucket": "beercellar-9617b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335092713805:android:9cdb526eb18f6e6c988f04",
+        "android_client_info": {
+          "package_name": "com.example.beercellar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARckxGI6wqcYxaFQcRiAXAXY-1mhBzgl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
